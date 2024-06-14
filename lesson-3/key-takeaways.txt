@@ -1,0 +1,16 @@
+Git:
+- Undo Action: git log, git checkout, git commit --amend, git restore, git reset, gitignore, 
+- Branching model
+Java Script
+- Convention
+- console.log kết hợp
+- object
+- Function
+- Logical operator: &&, ||, !
+- array
+- phạm vi của biến
+- Điều kiện nâng cao
+- Vòng lặp nâng cao
+
+
+

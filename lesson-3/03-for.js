@@ -29,6 +29,7 @@ function mangSole() {
     for (let i = 1; i <= 100; i += 2) {
         arr.push(i)
     }
+    
     console.log(arr)
 }
 

@@ -29,7 +29,9 @@ function bt5 () {
         {"month" : 11, "total": 100},
         {"month" : 12, "total": 100},
     ]
+
+    let tongdoanhthu = 0;
     for (let i =0; i<=11; i++)
-    console.log(doanhthu[i].total+doanhthu[i].total)
+    tongdoanhthu = tongdoanhthu + doanhthu[i].total;
 }
 bt5()

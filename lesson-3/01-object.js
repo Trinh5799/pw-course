@@ -13,8 +13,8 @@ const person = {
     address: {
         street: "99 Ho Tung Mau",
         city: "Da Nang",
-        country: "Viet Nam",
-    },
+        country: "Viet Nam"
+    }
 
 }
 console.log(person.address.street);
